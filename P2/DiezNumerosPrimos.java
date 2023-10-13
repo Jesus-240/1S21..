@@ -1,4 +1,4 @@
-public class DiezNumerosPrimos {
+public class P2p3_1S21 {
 	public static void main(String [] args) {
 	 int contador =0; 
 	 int numero= 2;
